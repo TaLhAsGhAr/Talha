@@ -1,0 +1,40 @@
+#main
+{
+  height: 1000px;
+  width: 800px;
+  background-color:darkgray;
+  margin:0 auto;
+
+}
+#hdr
+{
+   height: 120px;  
+   width: 800px;
+   background-color:blue;
+   float: left;
+
+}
+#nav
+{
+  height: 70px;
+  width: 800px;
+  background-color: aquamarine;
+  margin-top: 25px;
+  float :left;
+}
+#nav
+{
+  list-style-type:none;
+}
+#nav
+{
+  float: left;
+  margin-left: 15px;
+  border: 1px solid black;
+  padding: 10px;
+  margin-top: 25px;
+  color: chocolate;
+
+
+
+}
